@@ -1,0 +1,8 @@
+polars>=0.20.0
+numpy
+pandas
+lightgbm
+matplotlib
+seaborn
+scikit-learn
+pydantic
