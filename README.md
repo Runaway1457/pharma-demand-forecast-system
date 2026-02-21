@@ -45,7 +45,7 @@ Pré-requisitos:
 Passo a passo:
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/pharma-demand-forecast-system.git
+git clone https://github.com/Runaway1457/pharma-demand-forecast-system.git
 Crie o ambiente virtual e instale as dependências:
 bash
 
